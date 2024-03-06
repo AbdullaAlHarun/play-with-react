@@ -42,7 +42,7 @@ const output = multiply (35, 78);
 //6.objects 
 const student = {
     name: 'shakib khan',
-    age = 32, 
+    age : 32, 
     movies: ['king khan', 'achoda public']
 }
 
@@ -50,4 +50,4 @@ const myVariable = 'age';
 
 console.log(student.age);
 console.log(student['age']);
-console.log(student[myVariable];)
+console.log(student[myVariable]);
